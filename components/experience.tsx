@@ -15,7 +15,7 @@ const experiences: ExperienceItem[] = [
   {
     title: "Front-End Developer",
     company: "Nexorra Studio",
-    url: "#",
+    url: "https://www.nexorrastudio.com/",
     description:
       "Built client websites using Next.js, Tailwind CSS, and React.js. Focused on creating performant, accessible, and responsive web applications. Contributed to dashboards, landing pages, and full-stack collaborative projects.",
     skills: ["Next.js", "React.js", "Tailwind CSS", "Web Performance"],

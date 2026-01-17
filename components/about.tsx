@@ -45,7 +45,7 @@ export default function About() {
                             <ul className="space-y-2 text-white/60">
                                 <li className="flex items-center gap-3">
                                     <span className="w-2 h-2 bg-white/40 rounded-full"></span>
-                                    Music production and listening
+                                    Music and audiobooks
                                 </li>
                                 <li className="flex items-center gap-3">
                                     <span className="w-2 h-2 bg-white/40 rounded-full"></span>
@@ -86,7 +86,7 @@ export default function About() {
                                 fill
                                 className="object-cover group-hover:scale-110 transition-transform duration-500"
                             />
-                            <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent"></div>
+                            <div className="absolute inset-0 bg-linear-to-t from-black via-transparent to-transparent"></div>
                         </div>
                     </div>
                 </div>
