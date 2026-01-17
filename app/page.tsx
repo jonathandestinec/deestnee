@@ -9,6 +9,7 @@ import Experience from "@/components/experience"
 import About from "@/components/about"
 import Contact from "@/components/contact"
 import Footer from "@/components/footer"
+import { Analytics } from "@vercel/analytics/next"
 
 
 export default function Home() {
@@ -33,6 +34,7 @@ export default function Home() {
       <About />
       <Contact />
       <Footer />
+      <Analytics />
     </div>
   )
 }
