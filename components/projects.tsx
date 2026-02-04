@@ -20,7 +20,7 @@ const projects: Project[] = [
         description:
             "Real-time chat application featuring instant messaging. Built with Socket.io, Node.js, Next.js, and MongoDB.",
         tech: ["Node.js", "MongoDB", "Socket.io", "Next.js"],
-        liveUrl: "https://super-basic-chat-app-front-end.vercel.app/",
+        liveUrl: "https://super-basic-chat-app.vercel.app/",
         githubUrl: "https://github.com/jonathandestinec/super-basic-chat-app-front-end",
         featured: true,
         image: "https://images.unsplash.com/photo-1611746872915-64382b5c76da?q=80&w=1000&auto=format&fit=crop",
